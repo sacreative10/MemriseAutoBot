@@ -2,7 +2,7 @@
 
 A bot that automatically does your Memrise for you. It will get you the target you need swiftly and efficiently.
 
-<b>Note:<b> The bot does not work with the new, beta redesign for Memrise, and so you should definetly make sure that in Settings -> Learning that all the options are toggled OFF.
+<b>Note:</b> The bot does not work with the new, beta redesign for Memrise, and so you should definetly make sure that in Settings -> Learning that all the options are toggled OFF.
 
 ## About the Project (Important info as well):
 
