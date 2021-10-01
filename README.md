@@ -2,7 +2,7 @@
 
 A bot that automatically does your Memrise for you. It will get you the target you need swiftly and efficiently.
 
-<b>Note:</b> The bot does not work with the new, beta redesign for Memrise, and so you should definetly make sure that in `Settings --> Learning` that all the options are toggled OFF. Also, when you click on `Settings`, scroll down to <b>The new Memrise experience (Beta)</b>, and make sure that the checkbox is unchecked \* [ ]
+<b>Note:</b> The bot does not work with the new, beta redesign for Memrise, and so you should definetly make sure that in `Settings --> Learning` that all the options are toggled OFF. Also, when you click on `Settings`, scroll down to <b>The new Memrise experience (Beta)</b>, and make sure that the checkbox is unchecked
 
 ## About the Project (Important info as well):
 
