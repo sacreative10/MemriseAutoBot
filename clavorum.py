@@ -127,4 +127,4 @@ while goal > 0:
 
 ctrl('t')
 sleep(0.2)
-ky.type("https://www.youtube.com/watch?v=4z79B94ixj0\n")
+ky.type("https://www.youtube.com/watch?v=5-aazdelI5c\n")
